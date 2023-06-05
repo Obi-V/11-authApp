@@ -1,3 +1,6 @@
+# Aviso
+Hay que cambiar la environments.ts a local, ya que lo más normal es que lo uses en local. Por defecto tiene el puerto 3000 que es donde se conecta al back mongo del ejercicio 12.
+
 # AuthApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
