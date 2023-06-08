@@ -37,4 +37,11 @@ Una vez que la aplicación esté en funcionamiento, podrás registrarte, iniciar
 
 ¡Disfruta de la aplicación de frontend de login con guards y la integración con el backend en Nest!
 
-### Texto creado con la ayuda chatGTP
+## Curso
+Todas estas aplicaciones son sacadas del curso de Fernando herrera [Angular: De cero a experto](https://www.udemy.com/course/angular-fernando-herrera/), recomiendo comprarlo ya que en el curso se explica todo muchísimo mejor y más detalladamente, además el curso se actualiza cada poco tiempo.  
+
+Muy buen curso, lo recomiendo siempre que tengas tiempo.
+
+
+### Texto creado con la ayuda de chatGTP
+
